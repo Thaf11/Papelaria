@@ -1,0 +1,33 @@
+.navbar{
+    font-size: 20px;
+}
+
+.cor{
+    background-color: #f8f9fac5;
+}
+
+.alinhamento{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.ali{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.barra{
+    height: 80px;
+
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dis{
+    padding-top: 60px;
+}
