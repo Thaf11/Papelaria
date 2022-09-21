@@ -1,33 +1,121 @@
-.navbar{
+.navbar {
     font-size: 20px;
+
+    position: absolute;
+    top: 0px;
+    width: 100%;
+
 }
 
-.cor{
-    background-color: #f8f9fac5;
+.cor {
+    background-color: #faf8fac5;
 }
 
-.alinhamento{
+.alinhamento {
     padding-top: 30px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 
-.ali{
-    padding-top: 25px;
-    padding-bottom: 25px;
-    padding-left: 100px;
-    padding-right: 100px;
-}
-
-.barra{
+.barra {
     height: 80px;
 
 }
 
-body{
+body {
     background-repeat: no-repeat;
     background-size: cover;
+
+    font-family: sans-serif, Arial;
+    line-height: 1.5;
 }
 
-.dis{
-    padding-top: 60px;
+.box {
+    background-image: url(../img/campanha-para-reciclar-material-escolar.jpg);
+    border-radius: 10px;
+}
+
+.box5 {
+    /* background-color: #cecacbb8; */
+    background-image: url(../img/marca-texto-kit-pastel-big-marca-texto-pastel.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.dt {
+    padding-top: 52px;
+    padding-left: 450px;
+
+}
+
+.box2 {
+    background-image: url(../img/72af7234444c9674371f933afe53c5ce.jfif);
+    padding: 170px 400px;
+
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.box3 {
+    background-image: url(../img/c3c28f3ad2dd9fd754f6346dda74a314.jfif);
+    padding: 170px 400px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.box4 {
+
+    background-image: url(../img/material-escolar.png);
+    padding: 170px 400px;
+
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.teste {
+    right: 5%;
+}
+
+.teste2 {
+    right: 3%;
+}
+
+.teste3 {
+    right: 1%;
+}
+
+.des {
+    padding-top: 10px;
+}
+
+.dist{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.prod{
+    background-color: #978c92ad;
+    padding: 10px 15px;
+    width: 170px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.pd{
+    padding-top: 35px;
+    color: white;
+}
+
+.fonte{
+    color: white;
 }
